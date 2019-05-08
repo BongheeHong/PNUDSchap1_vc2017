@@ -4,7 +4,7 @@
 
 //실습 테스트 프로그램 대상임
 //Add() 구현
-void Multiply(int **a, int **b, int **c, int m, int n, int p)
+void Multiply(int *a[3], int **b, int **c, int m, int n, int p)
 {
 	for (int i = 0; i < m; i++)
 		for (int j = 0; j < p; j++)

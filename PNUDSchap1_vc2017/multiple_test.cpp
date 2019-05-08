@@ -26,7 +26,7 @@ void main() {
 		rowSize = i;
 
 		//Declare variable and get the heap space
-		int ** matric1 = new int *[rowSize];
+		int matric1[2][3] = new int *[rowSize];
 		for (int k = 0; k < rowSize; k++) {
 			matric1[k] = new int[rowSize];
 		}

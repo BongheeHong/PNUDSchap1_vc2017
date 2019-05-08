@@ -1,0 +1,4 @@
+﻿  program1.28_2.cpp
+d:\강의\자료구조\pnudschap1_vc2017\pnudschap1_vc2017\program1.28_2.cpp(33): warning C4244: '=': 'time_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\강의\자료구조\pnudschap1_vc2017\pnudschap1_vc2017\program1.28_2.cpp(38): warning C4244: '=': 'time_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PNUDSchap1_vc2017.vcxproj -> D:\강의\자료구조\PNUDSchap1_vc2017\Debug\PNUDSchap1_vc2017.exe
